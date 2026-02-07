@@ -1,0 +1,173 @@
+Post :
+https://mutation.land.gov.bd/api/v2/verify-khotiyan 
+
+------ 
+
+POST /api/v2/verify-khotiyan HTTP/3
+Host: mutation.land.gov.bd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+X-XSRF-TOKEN: eyJpdiI6IjYzbStQWUY5c3BqTnc0SGMydTR0blE9PSIsInZhbHVlIjoidzIrNGRGanNVaHFIMWwrcE1xVWNvME83RDBYRjVhdDV0TnNtc095VCttZkxCNlFcL0dNN1Z6NU00Z2U1YzNISm0yam8xK29BWW51OGFGU1pMcU1rT0VrbmZuZkROOWM2dWlQcDV0WGVTdWFjTWpDRkhTeWVmSE9ZMmxLdjBXV2xpIiwibWFjIjoiOWIyNzAwYTZhZTk0YjYwMmZkNjExOWU3MmRhMDgzNDBjNzVlOGI5MjU5MmNjMGVjNzQyYmZhNDgwMDNjYTc2NyJ9
+Content-Type: multipart/form-data; boundary=----geckoformboundary7f738f6ea95d1ea2b18d7b595f8e79ae
+Content-Length: 1222
+Origin: https://mutation.land.gov.bd
+Connection: keep-alive
+Referer: https://mutation.land.gov.bd/mutation-application-request
+Cookie: _ga_RL5BNZPYTV=GS2.1.s1766324938$o1$g0$t1766324938$j60$l0$h0; _ga=GA1.1.452665688.1766324938; _ga_JLCZRF9ZBF=GS2.1.s1770453636$o47$g1$t1770454294$j60$l0$h0; cf_clearance=HwJTdO5SgwXWM5Kw1wGv4fKS_jVzC3ReWYvZRshnR9Y-1770454600-1.2.1.1-NuG0RDkd37v_sLaanG96i8dU8VEXRcfrAOgFJkZCeExFKUz1PkkRmnM0hOBcZh_GuybVceqz63roAe2822aH8U8f.Hne86BCO.0yGGb3qMevk.ELO2JvnBDu4CKhrXS74Tda20MjbfnRYlCd0ilQ1ck_cYo_h5xE0XOSHmG36RendvWykz44BHNwKUVSfGTM2q5f3vuq..xWzFeID73xzlN5g7mklQu.cCM4ZAVNzGA; _ga_M39ERDJR77=GS2.1.s1770454636$o6$g1$t1770454806$j9$l0$h0; XSRF-TOKEN=eyJpdiI6IjYzbStQWUY5c3BqTnc0SGMydTR0blE9PSIsInZhbHVlIjoidzIrNGRGanNVaHFIMWwrcE1xVWNvME83RDBYRjVhdDV0TnNtc095VCttZkxCNlFcL0dNN1Z6NU00Z2U1YzNISm0yam8xK29BWW51OGFGU1pMcU1rT0VrbmZuZkROOWM2dWlQcDV0WGVTdWFjTWpDRkhTeWVmSE9ZMmxLdjBXV2xpIiwibWFjIjoiOWIyNzAwYTZhZTk0YjYwMmZkNjExOWU3MmRhMDgzNDBjNzVlOGI5MjU5MmNjMGVjNzQyYmZhNDgwMDNjYTc2NyJ9; _session=eyJpdiI6InNlY3JJQ0cxNFwvd2hHbTR5NDBVUkVRPT0iLCJ2YWx1ZSI6IkJ3cEhXdlpzK2hnbWtqOGc4NG4xWWl2TThzWForTnZcL3U5anZCZ1wvSThhN05ONUFoYXk2ZWtIMjRzbDFTek44REZRb2I5c20yT2FhM0RoY1o0WFwvTHp3MnZHTDhFVWlkbExcL25zMkJEXC9DMzgzR0hjWnRYdTVmcjhTMVhFOTNTZ1kiLCJtYWMiOiI5MzJjZmQ2NzQ1MWI2OWFkODE0YjJhZmIzNTYxNTlkMjg4Yjg0MGRlYTBmM2NmNjA2OTdmYjJiYmQxNWFlZjM4In0%3D; app_token=eyJpdiI6IndJMTR1REh3d2sxbHlQRVIxU2hPaEE9PSIsInZhbHVlIjoicmlQMkJidGl0NmtNcjNIWGlKS0NWdXU4WUZpVWZBcFwvb1Q5ZklLaHFvQ2IxOGMxd3ZFMEhHeEMwUGJoZFYrdDU2aGRZUTFpMjhsSUlEQnBrNEpMMjAzRkJTVzFmOHVCdjFVVTY1d3p5d3BRPSIsIm1hYyI6ImMyNzBiZGZiN2NiNTIwZTI3OTJjNDJmYWZlMjU2ZDhjMTQwNjliZjdhYjdjMDBkNjg4ZDQ2ZTdlMTkzZWY2ZjUifQ%3D%3D
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Priority: u=0
+TE: trailers
+---------
+
+
+
+
+
+------geckoformboundary7f738f6ea95d1ea2b18d7b595f8e79ae
+Content-Disposition: form-data; name="division_id"
+
+8
+------geckoformboundary7f738f6ea95d1ea2b18d7b595f8e79ae
+Content-Disposition: form-data; name="district_id"
+
+22
+------geckoformboundary7f738f6ea95d1ea2b18d7b595f8e79ae
+Content-Disposition: form-data; name="upazila_id"
+
+93
+------geckoformboundary7f738f6ea95d1ea2b18d7b595f8e79ae
+Content-Disposition: form-data; name="mouja_id"
+
+108935
+------geckoformboundary7f738f6ea95d1ea2b18d7b595f8e79ae
+Content-Disposition: form-data; name="jl_no"
+
+122
+------geckoformboundary7f738f6ea95d1ea2b18d7b595f8e79ae
+Content-Disposition: form-data; name="land_record_type_id"
+
+6
+------geckoformboundary7f738f6ea95d1ea2b18d7b595f8e79ae
+Content-Disposition: form-data; name="khatian_no"
+
+12
+------geckoformboundary7f738f6ea95d1ea2b18d7b595f8e79ae
+Content-Disposition: form-data; name="holding_no"
+
+12
+------geckoformboundary7f738f6ea95d1ea2b18d7b595f8e79ae
+Content-Disposition: form-data; name="access_token"
+
+undefined
+------geckoformboundary7f738f6ea95d1ea2b18d7b595f8e79ae
+Content-Disposition: form-data; name="khatian_type"
+
+namjari
+------geckoformboundary7f738f6ea95d1ea2b18d7b595f8e79ae--
+
+-------------------------------------
+
+{
+    "serviceType": "NAMJARI-API-SERVICE",
+    "responseTime": 1770454921,
+    "status": 200,
+    "responseCode": "RSP200",
+    "response": "Success",
+    "message": "\u09a4\u09a5\u09cd\u09af \u09b8\u09ab\u09b2\u09ad\u09be\u09ac\u09c7 \u09aa\u09be\u0993\u09af\u09bc\u09be \u0997\u09c7\u099b\u09c7",
+    "data": {
+        "holding": {
+            "khotian_no": "13",
+            "holding_no": "12",
+            "mouja_id": 108935,
+            "tax_clear_year_holding_en": "",
+            "tax_clear_year_holding_bn": "",
+            "tax_clear_uptodate": "",
+            "owner_information": [
+                {
+                    "name": "\u0985\u099c\u09bf\u099b\u09be\u09ab\u09c1\u09b0 \u09b0\u09b9\u09ae\u09be\u09a8",
+                    "father_name": "\u09aa\u09bf\u0982- \u0986\u09ae\u09bf\u09b0 \u0989\u09a6\u09cd\u09a6\u09bf\u09b8",
+                    "address": "\u09ab\u09c1\u09b2\u0995\u09cb\u099a\u09be",
+                    "land_portion": 0.5
+                },
+                {
+                    "name": "\u0986\u0983 \u099b\u09be\u09b2\u09be\u09bf\u09ae",
+                    "father_name": "\u09aa\u09bf\u0982- \u0986\u09ae\u09bf\u09b0 \u0989\u09a6\u09cd\u09a6\u09bf\u09b8",
+                    "address": "\u09ab\u09c1\u09b2\u0995\u09cb\u099a\u09be",
+                    "land_portion": 0.5
+                }
+            ],
+            "khotian_dag_information": [
+                {
+                    "dag_no": "794",
+                    "amount_of_land": 52,
+                    "land_type": "\u0995\u09be\u09a8\u09cd\u09a6\u09be",
+                    "land_usage_info_tax": [
+                        {
+                            "land_type": "\u0995\u09c3\u09b7\u09bf",
+                            "start_year": "2021",
+                            "end_year": "2025"
+                        }
+                    ]
+                }
+            ]
+        },
+        "khatian": [],
+        "responseData": {
+            "holding_response": {
+                "status": true,
+                "message": "\u09a4\u09a5\u09cd\u09af \u09ac\u09bf\u09a6\u09cd\u09af\u09ae\u09be\u09a8\u0964",
+                "data": [
+                    {
+                        "holding_no": "12",
+                        "khotian_no": "13",
+                        "mouja_id": 108935,
+                        "owner_type": "\u09b8\u09be\u09a7\u09be\u09b0\u09a3",
+                        "holding_owners": [
+                            {
+                                "name": "\u0985\u099c\u09bf\u099b\u09be\u09ab\u09c1\u09b0 \u09b0\u09b9\u09ae\u09be\u09a8",
+                                "father_name": "\u09aa\u09bf\u0982- \u0986\u09ae\u09bf\u09b0 \u0989\u09a6\u09cd\u09a6\u09bf\u09b8",
+                                "address": "\u09ab\u09c1\u09b2\u0995\u09cb\u099a\u09be",
+                                "land_portion": 0.5
+                            },
+                            {
+                                "name": "\u0986\u0983 \u099b\u09be\u09b2\u09be\u09bf\u09ae",
+                                "father_name": "\u09aa\u09bf\u0982- \u0986\u09ae\u09bf\u09b0 \u0989\u09a6\u09cd\u09a6\u09bf\u09b8",
+                                "address": "\u09ab\u09c1\u09b2\u0995\u09cb\u099a\u09be",
+                                "land_portion": 0.5
+                            }
+                        ],
+                        "land_schedules": [
+                            {
+                                "dag_no": "794",
+                                "amount_of_land": 52,
+                                "land_type": "\u0995\u09be\u09a8\u09cd\u09a6\u09be",
+                                "land_usage_info_tax": [
+                                    {
+                                        "land_type": "\u0995\u09c3\u09b7\u09bf",
+                                        "start_year": "2021",
+                                        "end_year": "2025"
+                                    }
+                                ]
+                            }
+                        ],
+                        "total_land_tax": 50
+                    }
+                ],
+                "code": 200
+            },
+            "khotian_response": {
+                "error": "Too Many Requests",
+                "detail": "Max 30 requests per minute per IP.",
+                "status": 429
+            }
+        },
+        "apiHeader": [],
+        "khotianBaseUrl": "https://lsg-micro-api.land.gov.bd/dlrms",
+        "holdingBaseUrl": "https://lsg-micro-api.land.gov.bd/ldtax/api"
+    }
+}
+
