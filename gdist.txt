@@ -1,0 +1,50 @@
+post https://mutation.land.gov.bd/api/get-districts-data
+
+------geckoformboundary6bd301508f2f080898a8dc6bacbf7375
+Content-Disposition: form-data; name="division_id"
+
+8
+------geckoformboundary6bd301508f2f080898a8dc6bacbf7375--
+
+
+{
+    "serviceType": "NAMJARI-API-SERVICE",
+    "responseTime": 1771519760,
+    "status": 200,
+    "responseCode": 200,
+    "error": false,
+    "message": "Data found",
+    "data": {
+        "districts": [
+            {
+                "id": 22,
+                "name_bn": "\u099c\u09be\u09ae\u09be\u09b2\u09aa\u09c1\u09b0",
+                "name_en": "JAMALPUR",
+                "division_id": "8",
+                "division_bbs_code": "45"
+            },
+            {
+                "id": 46,
+                "name_bn": "\u09a8\u09c7\u09a4\u09cd\u09b0\u0995\u09cb\u09a8\u09be",
+                "name_en": "NETRAKONA",
+                "division_id": "8",
+                "division_bbs_code": "45"
+            },
+            {
+                "id": 39,
+                "name_bn": "\u09ae\u09df\u09ae\u09a8\u09b8\u09bf\u0982\u09b9",
+                "name_en": "MYMENSINGH",
+                "division_id": "8",
+                "division_bbs_code": "45"
+            },
+            {
+                "id": 60,
+                "name_bn": "\u09b6\u09c7\u09b0\u09aa\u09c1\u09b0",
+                "name_en": "SHERPUR",
+                "division_id": "8",
+                "division_bbs_code": "45"
+            }
+        ]
+    }
+}
+

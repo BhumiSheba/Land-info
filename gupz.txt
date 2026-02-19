@@ -1,0 +1,81 @@
+post https://mutation.land.gov.bd/api/get-upazilas-data
+
+------geckoformboundaryc0806eef7238ae9958032c624b489a73
+Content-Disposition: form-data; name="division_id"
+
+8
+------geckoformboundaryc0806eef7238ae9958032c624b489a73
+Content-Disposition: form-data; name="district_id"
+
+22
+------geckoformboundaryc0806eef7238ae9958032c624b489a73--
+
+
+{
+    "serviceType": "NAMJARI-API-SERVICE",
+    "responseTime": 1771519760,
+    "status": 200,
+    "responseCode": 200,
+    "error": false,
+    "message": "Data found",
+    "data": {
+        "upazilas": [
+            {
+                "id": 96,
+                "name_bd": "\u0987\u09b8\u09b2\u09be\u09ae\u09aa\u09c1\u09b0",
+                "name_en": "ISLAMPUR",
+                "district_id": "22",
+                "division_id": "8",
+                "upazila_bbs_code": "29"
+            },
+            {
+                "id": 91,
+                "name_bd": "\u099c\u09be\u09ae\u09be\u09b2\u09aa\u09c1\u09b0 \u09b8\u09a6\u09b0",
+                "name_en": "JAMALPUR SADAR",
+                "district_id": "22",
+                "division_id": "8",
+                "upazila_bbs_code": "36"
+            },
+            {
+                "id": 95,
+                "name_bd": "\u09a6\u09c7\u0993\u09df\u09be\u09a8\u0997\u099e\u09cd\u099c",
+                "name_en": "DEWANGANJ",
+                "district_id": "22",
+                "division_id": "8",
+                "upazila_bbs_code": "15"
+            },
+            {
+                "id": 94,
+                "name_bd": "\u09ac\u0995\u09b6\u09c0\u0997\u099e\u09cd\u099c",
+                "name_en": "BAKSHIGANJ",
+                "district_id": "22",
+                "division_id": "8",
+                "upazila_bbs_code": "07"
+            },
+            {
+                "id": 92,
+                "name_bd": "\u09ae\u09be\u09a6\u09be\u09b0\u0997\u099e\u09cd\u099c",
+                "name_en": "MADARGANJ",
+                "district_id": "22",
+                "division_id": "8",
+                "upazila_bbs_code": "58"
+            },
+            {
+                "id": 93,
+                "name_bd": "\u09ae\u09c7\u09b2\u09be\u09a8\u09cd\u09a6\u09b9",
+                "name_en": "MELANDAHA",
+                "district_id": "22",
+                "division_id": "8",
+                "upazila_bbs_code": "61"
+            },
+            {
+                "id": 97,
+                "name_bd": "\u09b8\u09b0\u09bf\u09b7\u09be\u09ac\u09be\u09dc\u09c0",
+                "name_en": "SARISHABARI",
+                "district_id": "22",
+                "division_id": "8",
+                "upazila_bbs_code": "85"
+            }
+        ]
+    }
+}

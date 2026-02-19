@@ -1,0 +1,4 @@
+https://mutation.land.gov.bd/api/v2/insights/mut_v2_sys_land_ownership_type
+
+{"responseCode":200,"message":"success","success":true,"data":[{"id":"1","name_bn":"\u0995\u09cd\u09b0\u09df","order_id":"1"},{"id":"9","name_bn":"\u098f\u0993\u09df\u09be\u099c\/\u09ac\u09bf\u09a8\u09bf\u09ae\u09df","order_id":"1"},{"id":"2","name_bn":"\u0993\u09df\u09be\u09b0\u09bf\u09b6","order_id":"2"},{"id":"3","name_bn":"\u09b9\u09c7\u09ac\u09be","order_id":"3"},{"id":"4","name_bn":"\u09a1\u09bf\u0995\u09cd\u09b0\u09bf","order_id":"4"},{"id":"6","name_bn":"\u09ac\u09a8\u09cd\u09a6\u09cb\u09ac\u09b8\u09cd\u09a4","order_id":"6"},{"id":"8","name_bn":"\u0985\u09a7\u09bf\u0997\u09cd\u09b0\u09b9\u09a3","order_id":"7"}]}
+
